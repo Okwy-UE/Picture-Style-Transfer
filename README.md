@@ -1,2 +1,2 @@
 # Picture-Style-Transfer
-* Read Project description
+* Transfer of features / styles from one image to another
